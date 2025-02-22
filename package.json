@@ -1,0 +1,19 @@
+{
+  "name": "webside-nodejs-js-blockchain",
+  "version": "1.0.0",
+  "description": "## Lương Quang Hùng Chuyên Ngành Chính Blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^4.16.0"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.18"
+  }
+}
